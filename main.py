@@ -1,1 +1,1 @@
-print("Bye World!")
+print(5+6)
